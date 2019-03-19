@@ -1,0 +1,11 @@
+{
+    "name": "harvestlinerepos",
+    "version": "1.0.0",
+    "description": "ToHarvest71stFes",
+    "main": "index.js",
+    "author": "Fastriver 2018",
+    "license": "MIT",
+    "dependencies": {
+      "request":"^2.88.0"
+    }
+  }
